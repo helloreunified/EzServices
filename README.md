@@ -1,2 +1,2 @@
 # EzServices
-Information center for applications made by SpilledSkittles
+Repository for providing information on Ez-related products!
